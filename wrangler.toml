@@ -19,7 +19,7 @@ routes = [
   { pattern = "k8s-gcr.closeai.me", custom_domain = true },
   { pattern = "k8s.closeai.me", custom_domain = true },
   { pattern = "ghcr.closeai.me", custom_domain = true },
-  { pattern = "cloudsmith.closeai.me", custom_domain = true },
+  { pattern = "docker.love.cv", custom_domain = true },
 ]
 
 [env.production.vars]
